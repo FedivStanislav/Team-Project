@@ -1,0 +1,38 @@
+[
+  {
+    "id": 521,
+    "name": "Фактор повторної гри",
+    "shortname": "flappy_bird_replay_factor",
+    "description": "Що змушує гравців знову і знову намагатися побити рекорд.",
+    "price": "$0.00"
+  },
+  {
+    "id": 522,
+    "name": "Вплив складності на мотивацію",
+    "shortname": "flappy_bird_motivation",
+    "description": "Як рівень складності стимулює або відштовхує гравців.",
+    "price": "$0.00"
+  },
+  {
+    "id": 523,
+    "name": "Гейміфікація у Flappy Bird",
+    "shortname": "flappy_bird_gamification",
+    "description": "Механіки нагород і викликів, що утримують інтерес.",
+    "price": "$0.00"
+  },
+  {
+    "id": 524,
+    "name": "Поведінкові тригери",
+    "shortname": "flappy_bird_triggers",
+    "description": "Які події в грі запускають імпульсивну поведінку гравця.",
+    "price": "$0.00"
+  },
+  {
+    "id": 525,
+    "name": "Ефект досягнень",
+    "shortname": "flappy_bird_achievement_effect",
+    "description": "Роль відчуття прогресу та цілей у мотивації продовжувати гру.",
+    "price": "$0.00"
+  }
+]
+  

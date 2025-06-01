@@ -1,0 +1,37 @@
+[
+  {
+    "id": 501,
+    "name": "Походження Flappy Bird",
+    "shortname": "flappy_bird_origin",
+    "description": "Як виникла ідея гри та які передумови призвели до її створення.",
+    "price": "$0.00"
+  },
+  {
+    "id": 502,
+    "name": "Автор Flappy Bird: Нгуєн Х’єнт",
+    "shortname": "flappy_bird_author",
+    "description": "Життєвий шлях розробника та його натхнення для створення хіта.",
+    "price": "$3.70"
+  },
+  {
+    "id": 503,
+    "name": "Запуск і перше видалення",
+    "shortname": "flappy_bird_launch_removal",
+    "description": "Події довкола дебюту в App Store та рішення розробника зняти гру.",
+    "price": "$0.00"
+  },
+  {
+    "id": 504,
+    "name": "Відродження Flappy Bird",
+    "shortname": "flappy_bird_resurgence",
+    "description": "Як гра повернулася до магазинів та здобула нове життя.",
+    "price": "$0.00"
+  },
+  {
+    "id": 505,
+    "name": "Культурний вплив Flappy Bird",
+    "shortname": "flappy_bird_cultural_impact",
+    "description": "Вплив гри на індустрію мобільних розваг та мем-культуру.",
+    "price": "$0.00"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 511,
+    "name": "Фізика польоту пташки",
+    "shortname": "flappy_bird_physics",
+    "description": "Розбір моделі стрибків, гравітації та прискорення пташки.",
+    "price": "$0.00"
+  },
+  {
+    "id": 512,
+    "name": "Генерація труб",
+    "shortname": "flappy_bird_pipe_generation",
+    "description": "Алгоритм розташування і розміру перешкод у грі.",
+    "price": "$12.00"
+  },
+  {
+    "id": 513,
+    "name": "Система підрахунку очок",
+    "shortname": "flappy_bird_scoring",
+    "description": "Як гра фіксує проходження кожної труби та оновлює рекорд.",
+    "price": "$40.00"
+  },
+  {
+    "id": 514,
+    "name": "Механізм колізій",
+    "shortname": "flappy_bird_collision",
+    "description": "Техніка виявлення зіткнень між пташкою та трубами.",
+    "price": "$0.00"
+  },
+  {
+    "id": 515,
+    "name": "Налаштування складності",
+    "shortname": "flappy_bird_difficulty",
+    "description": "Як параметри швидкості та інтервалів впливають на ігровий баланс.",
+    "price": "$0.00"
+  }
+]
