@@ -1,0 +1,37 @@
+[
+  {
+    "id": 506,
+    "name": "Вибір технологій",
+    "shortname": "flappy_bird_tech_stack",
+    "description": "Які мови та фреймворки були використані при розробці гри.",
+    "price": "$0.00"
+  },
+  {
+    "id": 507,
+    "name": "Структура проекту",
+    "shortname": "flappy_bird_project_structure",
+    "description": "Організація файлів і модулів у вихідному коді Flappy Bird.",
+    "price": "$0.00"
+  },
+  {
+    "id": 508,
+    "name": "Алгоритм генерації перешкод",
+    "shortname": "flappy_bird_obstacle_algo",
+    "description": "Як реалізована випадкова генерація труб із врахуванням складності.",
+    "price": "$0.00"
+  },
+  {
+    "id": 509,
+    "name": "Оптимізація продуктивності",
+    "shortname": "flappy_bird_performance",
+    "description": "Методи зменшення навантаження на пристрій та підвищення FPS.",
+    "price": "$0.00"
+  },
+  {
+    "id": 510,
+    "name": "Виклики під час розробки",
+    "shortname": "flappy_bird_dev_challenges",
+    "description": "Проблеми, з якими зіткнувся розробник, та шляхи їх вирішення.",
+    "price": "$0.00"
+  }
+]
